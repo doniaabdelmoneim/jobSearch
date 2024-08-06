@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "66ad4afe4a23aceec98c3ab0"
+  },
+  "companyName": "space",
+  "description": "Software",
+  "industry": "software",
+  "address": "alex",
+  "numberOfEmployees": "51-100",
+  "companyEmail": "space@gmail.com",
+  "companyHR": {
+    "$oid": "66ad3427990b6a0a54f1d09a"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66af91fb5176215cf51baa11"
+  },
+  "companyName": "health",
+  "description": "We provide mental health care services",
+  "industry": "Mental Health care",
+  "address": "alex",
+  "numberOfEmployees": "11-20",
+  "companyEmail": "health@gmail.com",
+  "companyHR": {
+    "$oid": "66ad36d7ff074d3ddd630993"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b21c4d261755972307a7b7"
+  },
+  "companyName": "link",
+  "description": "We provide softWare services",
+  "industry": "softWare",
+  "address": "alex",
+  "numberOfEmployees": "11-20",
+  "companyEmail": "link@gmail.com",
+  "companyHR": {
+    "$oid": "66b21ba8261755972307a7b2"
+  },
+  "__v": 0
+}]

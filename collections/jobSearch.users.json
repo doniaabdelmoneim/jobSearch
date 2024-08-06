@@ -1,0 +1,161 @@
+[{
+  "_id": {
+    "$oid": "66ad3427990b6a0a54f1d09a"
+  },
+  "firstName": "hager",
+  "lastName": "ali",
+  "email": "hager@gmail.com",
+  "password": "$2b$08$8cknU2zSo5mPNAM2Isldwem.0vEWEWxvaOzs7TFdnNevxfP9VxzcW",
+  "recoveryEmail": "hager@gmail.com",
+  "DOB": "1990-9-1",
+  "mobileNumber": "0106780532",
+  "role": "Company_HR",
+  "status": "online",
+  "confirmed": true,
+  "username": "hager ali"
+},
+{
+  "_id": {
+    "$oid": "66ad36d7ff074d3ddd630993"
+  },
+  "firstName": "omar",
+  "lastName": "ali",
+  "email": "omar@gmail.com",
+  "password": "$2b$08$w7nkYEp4/tP78sg/q42/ceeCR3q99Y3.peZyvv11U/dFNbYByeH1W",
+  "recoveryEmail": "omar@gmail.com",
+  "DOB": "1990-9-1",
+  "mobileNumber": "0106980532",
+  "role": "Company_HR",
+  "status": "online",
+  "confirmed": true,
+  "username": "omar ali"
+},
+{
+  "_id": {
+    "$oid": "66ad36fbff074d3ddd630997"
+  },
+  "firstName": "olaa",
+  "lastName": "ibrahim",
+  "email": "olaa@gmail.com",
+  "password": "$2b$08$XGkJ0nPU4eU0DXXBB5ER9.NiqMZ.kKaWzi4R6TmsejOqm9e.DWzDy",
+  "recoveryEmail": "olaa@gmail.com",
+  "DOB": "1990-9-1",
+  "mobileNumber": "0106880532",
+  "role": "Company_HR",
+  "status": "offline",
+  "confirmed": true,
+  "username": "olaa ibrahim"
+},
+{
+  "_id": {
+    "$oid": "66ad3727ff074d3ddd63099d"
+  },
+  "firstName": "karim",
+  "lastName": "ibrahim",
+  "email": "karim@gmail.com",
+  "password": "$2b$08$cu0D7gbMsJZXqDxjyrL8Su7dar0.b1aQlDRxjEoNwvYauRSRs7lzu",
+  "recoveryEmail": "karim@gmail.com",
+  "DOB": "1990-9-1",
+  "mobileNumber": "0106457532",
+  "role": "User",
+  "status": "offline",
+  "confirmed": true,
+  "username": "karim ibrahim"
+},
+{
+  "_id": {
+    "$oid": "66ad3765ff074d3ddd6309a3"
+  },
+  "firstName": "sara",
+  "lastName": "joi",
+  "email": "saraa@gmail.com",
+  "password": "$2b$08$jcUjenkH3h3ddav3T.GKCOtzhBCbQCDpahj6v8nHYRcrkkRENNw12",
+  "recoveryEmail": "saraa@gmail.com",
+  "DOB": "1990-9-1",
+  "mobileNumber": "0106454632",
+  "role": "User",
+  "status": "online",
+  "confirmed": true,
+  "username": "sara joi"
+},
+{
+  "_id": {
+    "$oid": "66ad37b4ff074d3ddd6309a9"
+  },
+  "firstName": "basma",
+  "lastName": "ahmed",
+  "email": "basma@gmail.com",
+  "password": "$2b$08$B8np7wM9xj/y9i5jTYM7CeQaJFNnffeJ1bARuPKpNLQ/tANbwS9wS",
+  "recoveryEmail": "basma@gmail.com",
+  "DOB": "1990-9-1",
+  "mobileNumber": "0123578000",
+  "role": "User",
+  "status": "online",
+  "confirmed": true,
+  "username": "basma ahmed"
+},
+{
+  "_id": {
+    "$oid": "66ad37f7ff074d3ddd6309af"
+  },
+  "firstName": "mayada",
+  "lastName": "ahmed",
+  "email": "mayada@gmail.com",
+  "password": "$2b$08$MFIYpuEi7QAIXaFMNX.2LO7VbLwQ0xEF8MzzXJD7pGh4IduX5b71C",
+  "recoveryEmail": "mayada@gmail.com",
+  "DOB": "1990-9-1",
+  "mobileNumber": "012356689000",
+  "role": "User",
+  "status": "online",
+  "confirmed": true,
+  "username": "mayada ahmed"
+},
+{
+  "_id": {
+    "$oid": "66b0caa1be97ab04d04e4f53"
+  },
+  "firstName": "maha",
+  "lastName": "ali",
+  "email": "vvvv@gmail.com@gmail.com",
+  "password": "$2b$08$wL87xOZZQFmQ3FkvzKx1DORKCpnmB51I1vMBnKIZqM127dNS10bYa",
+  "recoveryEmail": "mahaaaa@example.com",
+  "DOB": "1990-01-01",
+  "mobileNumber": "1234567890",
+  "role": "User",
+  "status": "online",
+  "confirmed": true,
+  "username": "aaaa ahmed"
+},
+{
+  "_id": {
+    "$oid": "66b125056d56951ec68f6b14"
+  },
+  "firstName": "hggh",
+  "lastName": "ahmed",
+  "email": "donia.abdelmoneimmk@gmail.com",
+  "password": "$2b$10$o43UWcJI3/cSezgieMNN7O5NwsuFaJVyr7.6FKEd/QMsaFiFqGgD6",
+  "recoveryEmail": "donia.abdelmoneimmk@gmail.com",
+  "DOB": "1990-9-1",
+  "mobileNumber": "012356686700",
+  "role": "User",
+  "status": "offline",
+  "confirmed": false,
+  "username": "hggh ahmed",
+  "otp": "$2b$08$bXWitZSNuIZIzvwL8p776udZu5mjUDYsBOD2ooq8M94bdcslyB3lm"
+},
+{
+  "_id": {
+    "$oid": "66b21ba8261755972307a7b2"
+  },
+  "firstName": "donia",
+  "lastName": "ahmed",
+  "email": "donia@gmail.com",
+  "password": "$2b$08$ybsLetHRLR6SRMtipOUfwuUqcAIRju5zVPQkaA/Z/3oGi0SqW88u2",
+  "recoveryEmail": "donia@gmail.com",
+  "DOB": "2000-9-1",
+  "mobileNumber": "010756689000",
+  "role": "Company_HR",
+  "status": "online",
+  "confirmed": true,
+  "username": "donia ahmed"
+}]

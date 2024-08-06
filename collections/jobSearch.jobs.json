@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "66afbe69c64e062d6f065d6c"
+  },
+  "jobTitle": "NodeJs back-end developer",
+  "jobLocation": "hybrid",
+  "workingTime": "full-time",
+  "seniorityLevel": "Team-Lead",
+  "jobDescription": "We're looking for a skilled software engineer to join our team.",
+  "technicalSkills": [
+    "JavaScript",
+    "Node.js",
+    "Express"
+  ],
+  "softSkills": [
+    "Communication",
+    "Teamwork",
+    "Problem-solving"
+  ],
+  "addedBy": {
+    "$oid": "66ad36d7ff074d3ddd630993"
+  },
+  "__v": 0
+}]
