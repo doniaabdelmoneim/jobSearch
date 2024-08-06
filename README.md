@@ -55,7 +55,7 @@ npm start
 
 *** API Documentation ***
 
-postman url: 
+postman url: https://documenter.getpostman.com/view/33348823/2sA3rxrtnY
 
 
 ## License
